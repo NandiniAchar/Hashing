@@ -1,0 +1,3 @@
+# Hashing
+Hashing
+print("Hashing for python is:",hash(python))
